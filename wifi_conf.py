@@ -1,0 +1,2 @@
+wifiName=''
+wifiPdWord=''
