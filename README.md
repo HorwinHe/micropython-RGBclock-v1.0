@@ -11,7 +11,7 @@ Connect the clock directly to the computer.
 
 Configure your area through our configuration software, and then click the restart button in the software.
 
-![image](images/info1.jpg)
+<img src="img_url"https://github.com/HorwinHe/micropython-RGBclock-v1.0/blob/master/images/info2.jpg" alt="note"/>
 
 if you want to change the color for the RGBclock, you can use our software to change the color.
 
